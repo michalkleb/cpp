@@ -1,0 +1,3 @@
+"D:\INNE\Programy\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\KlebukowskiMichal-etap3.dir/objects.a
+D:\INNE\Programy\mingw64\bin\ar.exe cr CMakeFiles\KlebukowskiMichal-etap3.dir/objects.a @CMakeFiles\KlebukowskiMichal-etap3.dir\objects1.rsp
+D:\INNE\Programy\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\KlebukowskiMichal-etap3.dir/objects.a -Wl,--no-whole-archive  -o KlebukowskiMichal-etap3.exe -Wl,--out-implib,libKlebukowskiMichal-etap3.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\KlebukowskiMichal-etap3.dir\linklibs.rsp

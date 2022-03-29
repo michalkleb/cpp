@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="KlebukowskiMichal-etap3"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/Programowanie obiektowe/KlebukowskiMichal-etap3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/INNE/Programy/mingw64/bin/mingw32-make.exe -f &quot;D:/Programowanie obiektowe/KlebukowskiMichal-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/INNE/Programy/mingw64/bin/mingw32-make.exe -f &quot;D:/Programowanie obiektowe/KlebukowskiMichal-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/INNE/Programy/mingw64/bin/mingw32-make.exe -f &quot;D:/Programowanie obiektowe/KlebukowskiMichal-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/INNE/Programy/mingw64/bin/mingw32-make.exe -f &quot;D:/Programowanie obiektowe/KlebukowskiMichal-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="KlebukowskiMichal-etap3">
+				<Option output="D:/Programowanie obiektowe/KlebukowskiMichal-etap3/cmake-build-debug/KlebukowskiMichal-etap3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Programowanie obiektowe/KlebukowskiMichal-etap3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/INNE/Programy/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/INNE/Programy/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/INNE/Programy/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/INNE/Programy/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/INNE/Programy/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/INNE/Programy/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/INNE/Programy/mingw64/bin/mingw32-make.exe -f &quot;D:/Programowanie obiektowe/KlebukowskiMichal-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 KlebukowskiMichal-etap3"/>
+					<CompileFile command="D:/INNE/Programy/mingw64/bin/mingw32-make.exe -f &quot;D:/Programowanie obiektowe/KlebukowskiMichal-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/INNE/Programy/mingw64/bin/mingw32-make.exe -f &quot;D:/Programowanie obiektowe/KlebukowskiMichal-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/INNE/Programy/mingw64/bin/mingw32-make.exe -f &quot;D:/Programowanie obiektowe/KlebukowskiMichal-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="KlebukowskiMichal-etap3/fast">
+				<Option output="D:/Programowanie obiektowe/KlebukowskiMichal-etap3/cmake-build-debug/KlebukowskiMichal-etap3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Programowanie obiektowe/KlebukowskiMichal-etap3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/INNE/Programy/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/INNE/Programy/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/INNE/Programy/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/INNE/Programy/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/INNE/Programy/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/INNE/Programy/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/INNE/Programy/mingw64/bin/mingw32-make.exe -f &quot;D:/Programowanie obiektowe/KlebukowskiMichal-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 KlebukowskiMichal-etap3/fast"/>
+					<CompileFile command="D:/INNE/Programy/mingw64/bin/mingw32-make.exe -f &quot;D:/Programowanie obiektowe/KlebukowskiMichal-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/INNE/Programy/mingw64/bin/mingw32-make.exe -f &quot;D:/Programowanie obiektowe/KlebukowskiMichal-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/INNE/Programy/mingw64/bin/mingw32-make.exe -f &quot;D:/Programowanie obiektowe/KlebukowskiMichal-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/Programowanie obiektowe/KlebukowskiMichal-etap3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/INNE/Programy/mingw64/bin/mingw32-make.exe -f &quot;D:/Programowanie obiektowe/KlebukowskiMichal-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/INNE/Programy/mingw64/bin/mingw32-make.exe -f &quot;D:/Programowanie obiektowe/KlebukowskiMichal-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/INNE/Programy/mingw64/bin/mingw32-make.exe -f &quot;D:/Programowanie obiektowe/KlebukowskiMichal-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/INNE/Programy/mingw64/bin/mingw32-make.exe -f &quot;D:/Programowanie obiektowe/KlebukowskiMichal-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/Programowanie obiektowe/KlebukowskiMichal-etap3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/INNE/Programy/mingw64/bin/mingw32-make.exe -f &quot;D:/Programowanie obiektowe/KlebukowskiMichal-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/INNE/Programy/mingw64/bin/mingw32-make.exe -f &quot;D:/Programowanie obiektowe/KlebukowskiMichal-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/INNE/Programy/mingw64/bin/mingw32-make.exe -f &quot;D:/Programowanie obiektowe/KlebukowskiMichal-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/INNE/Programy/mingw64/bin/mingw32-make.exe -f &quot;D:/Programowanie obiektowe/KlebukowskiMichal-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/Programowanie obiektowe/KlebukowskiMichal-etap3/Bicycle.cpp">
+			<Option target="KlebukowskiMichal-etap3"/>
+		</Unit>
+		<Unit filename="D:/Programowanie obiektowe/KlebukowskiMichal-etap3/Bicycle.h">
+			<Option target="KlebukowskiMichal-etap3"/>
+		</Unit>
+		<Unit filename="D:/Programowanie obiektowe/KlebukowskiMichal-etap3/Car.cpp">
+			<Option target="KlebukowskiMichal-etap3"/>
+		</Unit>
+		<Unit filename="D:/Programowanie obiektowe/KlebukowskiMichal-etap3/Car.h">
+			<Option target="KlebukowskiMichal-etap3"/>
+		</Unit>
+		<Unit filename="D:/Programowanie obiektowe/KlebukowskiMichal-etap3/Exception.h">
+			<Option target="KlebukowskiMichal-etap3"/>
+		</Unit>
+		<Unit filename="D:/Programowanie obiektowe/KlebukowskiMichal-etap3/Factory.cpp">
+			<Option target="KlebukowskiMichal-etap3"/>
+		</Unit>
+		<Unit filename="D:/Programowanie obiektowe/KlebukowskiMichal-etap3/Factory.h">
+			<Option target="KlebukowskiMichal-etap3"/>
+		</Unit>
+		<Unit filename="D:/Programowanie obiektowe/KlebukowskiMichal-etap3/MotorVehicle.cpp">
+			<Option target="KlebukowskiMichal-etap3"/>
+		</Unit>
+		<Unit filename="D:/Programowanie obiektowe/KlebukowskiMichal-etap3/MotorVehicle.h">
+			<Option target="KlebukowskiMichal-etap3"/>
+		</Unit>
+		<Unit filename="D:/Programowanie obiektowe/KlebukowskiMichal-etap3/Motorbike.cpp">
+			<Option target="KlebukowskiMichal-etap3"/>
+		</Unit>
+		<Unit filename="D:/Programowanie obiektowe/KlebukowskiMichal-etap3/Motorbike.h">
+			<Option target="KlebukowskiMichal-etap3"/>
+		</Unit>
+		<Unit filename="D:/Programowanie obiektowe/KlebukowskiMichal-etap3/Owners.cpp">
+			<Option target="KlebukowskiMichal-etap3"/>
+		</Unit>
+		<Unit filename="D:/Programowanie obiektowe/KlebukowskiMichal-etap3/Owners.h">
+			<Option target="KlebukowskiMichal-etap3"/>
+		</Unit>
+		<Unit filename="D:/Programowanie obiektowe/KlebukowskiMichal-etap3/Painter.cpp">
+			<Option target="KlebukowskiMichal-etap3"/>
+		</Unit>
+		<Unit filename="D:/Programowanie obiektowe/KlebukowskiMichal-etap3/Painter.h">
+			<Option target="KlebukowskiMichal-etap3"/>
+		</Unit>
+		<Unit filename="D:/Programowanie obiektowe/KlebukowskiMichal-etap3/UsedVehicle.cpp">
+			<Option target="KlebukowskiMichal-etap3"/>
+		</Unit>
+		<Unit filename="D:/Programowanie obiektowe/KlebukowskiMichal-etap3/UsedVehicle.h">
+			<Option target="KlebukowskiMichal-etap3"/>
+		</Unit>
+		<Unit filename="D:/Programowanie obiektowe/KlebukowskiMichal-etap3/Vehicle.cpp">
+			<Option target="KlebukowskiMichal-etap3"/>
+		</Unit>
+		<Unit filename="D:/Programowanie obiektowe/KlebukowskiMichal-etap3/Vehicle.h">
+			<Option target="KlebukowskiMichal-etap3"/>
+		</Unit>
+		<Unit filename="D:/Programowanie obiektowe/KlebukowskiMichal-etap3/main.cpp">
+			<Option target="KlebukowskiMichal-etap3"/>
+		</Unit>
+		<Unit filename="D:/Programowanie obiektowe/KlebukowskiMichal-etap3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

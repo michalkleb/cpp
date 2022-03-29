@@ -1,0 +1,20 @@
+Elementy dodane do etapu 3:
+3 funkcje szablonowe
+- funkcja drive któa umożliwia jazdę pojazdami silnikowymi w komisie, fabryce i w klasie właścicieli
+- funkcja print umożliwiająca wypisanie zawartości fabryki, komisu i właścicieli
+- funkcja check umożliwiająca sprawdzenie poprawności wpisanego numeru (również te same typy co powyżej)
+3 rodzaje wyjątków odpowiadających za: błędnie wpisany numer przy wyborze pojazdu, wyjątki wystepujące podczas jazdy, wyjątki występujące podczas tworzenia pojazdu.
+
+
+Funkcjonalności z poprzednich etapów:
+Na początku programu tworzę 3 obiekty typu Factory, każdy z nich będzie produkował inny rodzaj pojazdu (rower,motocykl,samochód).
+Tworzę również dwa obiekty typu Owners, które przechowują spzedane pojazdy, jeden rowery, a drugi pojazdy silnikowe.
+Oprócz powyższych powstają również obiekty typu Lakiernik i Komis.
+
+1.Każda z fabryk może stworzyć odpowiedni dla siebie pojazd jak i go sprzedać. Dla pojazdów silnikowych możliwa jest również jazda próbna danym pojazdem.
+2.Możliwe jest wyświetlenie asortymentu danej fabryki i uzyskanie szczegółowych informacji o wskazanym przez użytkowanika pojeździe.
+3.Po sprzeadaniu pojazdu przez fabrykę trafia on do odpowiedniego obiektu Owners. Można wyświetlić wszystkie sprzedane pojazdy, przejechać się nimi oraz udać się nimi do lakiernika. 
+4.Komis może kupic pojazdy silnikowe przechowywane w obiekcie Owners. Może również sprzedać własne pojazdy które trafiają spowrotem do obiektu Owners. Udostępnia również jazdę próbną.
+Ponadto możliwe jest wyświetlenie bieżącej zawartości komisu.
+
+Za każdym razem gdy pojawia sie prośba o wybór pojazdu należy wpisać liczbe całkowitą która odpowiada miejscu w tablicy.

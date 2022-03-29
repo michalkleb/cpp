@@ -1,0 +1,70 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Programowanie obiektowe/KlebukowskiMichal-etap3/Exception.h
+string
+-
+
+D:/Programowanie obiektowe/KlebukowskiMichal-etap3/Factory.h
+string
+-
+memory
+-
+Vehicle.h
+D:/Programowanie obiektowe/KlebukowskiMichal-etap3/Vehicle.h
+Owners.h
+D:/Programowanie obiektowe/KlebukowskiMichal-etap3/Owners.h
+
+D:/Programowanie obiektowe/KlebukowskiMichal-etap3/Owners.h
+vector
+-
+memory
+-
+Vehicle.h
+D:/Programowanie obiektowe/KlebukowskiMichal-etap3/Vehicle.h
+
+D:/Programowanie obiektowe/KlebukowskiMichal-etap3/Painter.h
+Vehicle.h
+D:/Programowanie obiektowe/KlebukowskiMichal-etap3/Vehicle.h
+memory
+-
+
+D:/Programowanie obiektowe/KlebukowskiMichal-etap3/UsedVehicle.h
+string
+-
+memory
+-
+vector
+-
+Vehicle.h
+D:/Programowanie obiektowe/KlebukowskiMichal-etap3/Vehicle.h
+
+D:/Programowanie obiektowe/KlebukowskiMichal-etap3/Vehicle.h
+string
+-
+iostream
+-
+memory
+D:/Programowanie obiektowe/KlebukowskiMichal-etap3/memory
+
+D:/Programowanie obiektowe/KlebukowskiMichal-etap3/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+Factory.h
+D:/Programowanie obiektowe/KlebukowskiMichal-etap3/Factory.h
+UsedVehicle.h
+D:/Programowanie obiektowe/KlebukowskiMichal-etap3/UsedVehicle.h
+Painter.h
+D:/Programowanie obiektowe/KlebukowskiMichal-etap3/Painter.h
+Exception.h
+D:/Programowanie obiektowe/KlebukowskiMichal-etap3/Exception.h
+
